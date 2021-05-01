@@ -1,0 +1,10 @@
+python3 sweep_schelling_model.py --n 200 --num_nnbs 8 --num_iters 50 --tolerance_num 4
+python3 sweep_schelling_model.py --n 200 --num_nnbs 8 --num_iters 50 --tolerance_num 4
+python3 sweep_schelling_model.py --n 200 --num_nnbs 8 --num_iters 50 --tolerance_num 4
+python3 sweep_schelling_model.py --n 200 --num_nnbs 8 --num_iters 50 --tolerance_num 4
+python3 sweep_schelling_model.py --n 200 --num_nnbs 8 --num_iters 50 --tolerance_num 4
+python3 sweep_schelling_model.py --n 200 --num_nnbs 8 --num_iters 50 --tolerance_num 4
+python3 sweep_schelling_model.py --n 200 --num_nnbs 8 --num_iters 50 --tolerance_num 4
+python3 sweep_schelling_model.py --n 200 --num_nnbs 8 --num_iters 50 --tolerance_num 4
+python3 sweep_schelling_model.py --n 200 --num_nnbs 8 --num_iters 50 --tolerance_num 4
+python3 sweep_schelling_model.py --n 200 --num_nnbs 8 --num_iters 50 --tolerance_num 4
